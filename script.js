@@ -42,7 +42,7 @@ function loss(userSelection, computerSelection){
 }
 function draw(userSelection, computerSelection){
     /*Informs player of a draw*/
-    result_p.innerHTML = `${convertToWord(userSelection)} is equal to ${convertToWord(computerSelection)}. It's a Tie!🪢`;    
+    result_p.innerHTML = `${convertToWord(userSelection)} is equal to ${convertToWord(computerSelection)}. It's a Tie! 🪢`;    
 }
 
 function game(userSelection){
