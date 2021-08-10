@@ -3,7 +3,7 @@
 **BUILD STATUS**: Incomplete, the game should only last 5 rounds, the site is not flex.
 
 <h1 align="center">Hi 👋, I'm Janay aka JLpng</h1>
-<h3 align="center">A passionate programmer learning web dev</h3>
+<h3 align="center">Freelance Developer in Training 🚧</h3>
 
 - 🔭 I’m currently working on **The Odin Project**
 
@@ -11,8 +11,11 @@
 
 - 🤝 I’m looking for help with **CSS**
 
+- ⚡ Fun fact **I love to learn, finding memes and to laugh in stressful situations. Fitness and yoga is life outside of coding.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jlpng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jlpng" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jlpng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jlpng" height="30" width="40" /></a>
 <a href="https://instagram.com/jl.5703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jl.5703" height="30" width="40" /></a>
 </p>
