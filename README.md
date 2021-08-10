@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **HTML, CSS and ReactJS**
+- 🌱 I’m currently learning **CSS and ReactJS**
 
 - 🤝 I’m looking for help with **CSS**
 
