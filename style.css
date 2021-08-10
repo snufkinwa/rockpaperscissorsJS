@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: Caveat, sans-serif;
     color:white;
+    text-decoration: none;
 }
 
 body{
@@ -73,4 +74,8 @@ main{
 .choice:hover{
     cursor: pointer;
     background: rgba(226, 167, 226, 0.288);
+}
+.credit{
+    text-align: center;
+    color: white;
 }
