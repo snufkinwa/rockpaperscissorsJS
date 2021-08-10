@@ -1,3 +1,6 @@
+**PROJECT**: Rock Paper Scissors JavaScript fundamentals
+**BUILD STATUS**: Incomplete, the game should only last 5 rounds, the site is not flex.
+
 <h1 align="center">Hi 👋, I'm Janay aka JLpng</h1>
 <h3 align="center">A passionate programmer learning web dev</h3>
 
